@@ -9,7 +9,7 @@
 - My other interests include learning foreign languages, music, and art in general 🌎🎧<br>
 
  <div>
-  <!-- Primeira Div -->
+  <h3>Contact me</h3>
   <span>
     <a href="mailto:lialilinbox@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -19,7 +19,7 @@
     </a>
   </span>
 
-  <!-- Segunda Div -->
+  <h3>My stacks</h3>
   <span>
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
