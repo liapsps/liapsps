@@ -2,6 +2,7 @@
 
 <img align="right" src="ezgif-3-ddb8331e7d.gif" alt="spider-lia" width="150" style="float: right;">
 <p align="left">
+ <br>
 - I'm Julia Chaves 🫧 <br>
 - I'm a Data Science nerd ☝️🤓<br> 
 - Currently working as a Data Analyst 🥧📊<br>
