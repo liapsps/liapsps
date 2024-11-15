@@ -3,10 +3,10 @@
 <img align="right" alt="spider-lia" width="150" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
 <p align="left">
 <br>
-- I'm a Data Science nerd ☝️🤓  
-- Currently working as a Data Analyst 🥧📊  
-- And studying Advanced English, Web Development, and Data Structures 👩🏽‍💻🧩  
-- My other interests include learning foreign languages, music, and art in general 🌎🎧  
+- I'm a Data Science nerd ☝️🤓<br> 
+- Currently working as a Data Analyst 🥧📊<br>
+- And studying Advanced English, Web Development, and Data Structures 👩🏽‍💻🧩<br>
+- My other interests include learning foreign languages, music, and art in general 🌎🎧<br>
 <br>
 
 ### Let me know! 📌
