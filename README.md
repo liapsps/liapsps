@@ -36,7 +36,7 @@
 ### Github stats
  <div>
    <a href="https://github.com/liapsps">
-   <img height="150" src="https://github-readme-stats.vercel.app/api?username=liapsps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false&rank_icon=default"/>
+   <img height="150" src="https://github-readme-stats.vercel.app/api?username=liapsps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false&rank_icon=github"/>
    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapsps&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
