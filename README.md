@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=843EA1&width=435&lines=Hello!+Ol%C3%A1!+%EC%95%88%EB%85%95!++%F0%9F%91%8B;Hello!;Ol%C3%A1!+;%EC%95%88%EB%85%95!+;%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<img align="right" src="ezgif-3-ddb8331e7d.gif" alt="spider-lia" width="200" style="float: right;">
+<img align="right" src="ezgif-3-ddb8331e7d.gif" alt="spider-lia" width="150" style="float: right;">
 <p align="left">
 - I'm Julia Chaves 🫧 <br>
 - I'm a Data Science nerd ☝️🤓<br> 
