@@ -8,7 +8,7 @@
 - And studying Advanced English, Web Development, and Data Structures 👩🏽‍💻🧩<br>
 - My other interests include learning foreign languages, music, and art in general 🌎🎧<br>
 
- <div style="display: flex; align-items: center; justify-content: space-between;">
+ <div style="display: flex; align-items: left; justify-content: space-between;">
 
   <!-- Primeira Div -->
   <div>
@@ -21,7 +21,7 @@
   </div>
 
   <!-- Segunda Div -->
-  <div style="display: flex; gap: 10px;">
+  <div align-items: right; style="display: flex;">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
