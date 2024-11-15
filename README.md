@@ -1,4 +1,4 @@
-## Hello! I'm Julia Chaves 🫧
+# Hello! I'm Julia Chaves 🫧
 
 - I'm a Data Science nerd ☝️🤓
 - Currently working as a Data Analyst 🥧📊
@@ -22,7 +22,7 @@
   <img align="right" alt="gif" height="150" width="150" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
 </div>
 
-##
+<hr style="text-align: center;">
 
 ### Let me know! 📌
  <div> 
