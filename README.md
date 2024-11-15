@@ -1,8 +1,8 @@
-# Hello! I'm Julia Chaves 🫧
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=843EA1&width=435&lines=Hello!+Ol%C3%A1!+%EC%95%88%EB%85%95!++%F0%9F%91%8B;Hello!;Ol%C3%A1!+;%EC%95%88%EB%85%95!+;%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img align="right" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif" alt="spider-lia" width="200" style="float: right; padding: 300px;">
 <p align="left">
-<br>
+- I'm Julia Chaves 🫧 <br>
 - I'm a Data Science nerd ☝️🤓<br> 
 - Currently working as a Data Analyst 🥧📊<br>
 - And studying Advanced English, Web Development, and Data Structures 👩🏽‍💻🧩<br>
