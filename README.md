@@ -7,6 +7,7 @@
 - My other interests include learning foreign languages, music and art in general 🌎🎧 <br>
   <img align="right" alt="gif" height="150" width="150" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
 </div>
+<br><br>
   
  <div>
    <a href="https://github.com/liapsps">
