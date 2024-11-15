@@ -1,6 +1,7 @@
 # Hello! I'm Julia Chaves 🫧
 
 <img align="right" alt="spider-lia" width="400" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
+<p align="left">
 
 - I'm a Data Science nerd ☝️🤓  
 - Currently working as a Data Analyst 🥧📊  
