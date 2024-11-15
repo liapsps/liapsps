@@ -7,7 +7,7 @@
 - Currently working as a Data Analyst 🥧📊  
 - And studying Advanced English, Web Development, and Data Structures 👩🏽‍💻🧩  
 - My other interests include learning foreign languages, music, and art in general 🌎🎧  
-<br><br>
+<br>
 
 ### Let me know! 📌
  <div> 
