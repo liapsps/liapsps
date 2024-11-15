@@ -1,24 +1,11 @@
-<div style="display: flex; justify-content: space-between; align-items: left;">
-
-<div style="flex: 1;">
-
 # Hello! I'm Julia Chaves 🫧
+
+<img align="right" alt="spider-lia" width="400" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
 
 - I'm a Data Science nerd ☝️🤓  
 - Currently working as a Data Analyst 🥧📊  
 - And studying Advanced English, Web Development, and Data Structures 👩🏽‍💻🧩  
 - My other interests include learning foreign languages, music, and art in general 🌎🎧  
-
-</div>
-
-<div style="flex: 1; text-align: right;">
-<img src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif" alt="Minha Imagem" style="width: 150px; border-radius: 50%;">
-</div>
-
-</div>
-
-
-
 
   
  <div>
