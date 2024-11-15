@@ -1,12 +1,14 @@
 # Hello! I'm Julia Chaves 🫧
 
-- I'm a Data Science nerd ☝️🤓
-- Currently working as a Data Analyst 🥧📊
-- And studying Advanced English, Web Development and Data Structures 👩🏽‍💻🧩
-- My other interests include learning foreign languages, music and art in general 🌎🎧
+<div>
+- I'm a Data Science nerd ☝️🤓 <br>
+- Currently working as a Data Analyst 🥧📊 <br>
+- And studying Advanced English, Web Development and Data Structures 👩🏽‍💻🧩 <br>
+- My other interests include learning foreign languages, music and art in general 🌎🎧 <br>
+  <img align="right" alt="gif" height="150" width="150" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
+</div>
   
  <div>
-   <img align="right" alt="gif" height="150" width="150" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
    <a href="https://github.com/liapsps">
    <img height="160" src="https://github-readme-stats.vercel.app/api?username=liapsps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false&rank_icon=github"/>
    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapsps&layout=compact&langs_count=10&theme=dracula"/>
