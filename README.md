@@ -18,7 +18,7 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="right" alt="gif" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
+  <img align="right" alt="gif" height="100" width="100" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
 </div>
 
 ##
