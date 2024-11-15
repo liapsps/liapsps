@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
 
 <div style="flex: 1;">
 
@@ -11,11 +11,12 @@
 
 </div>
 
-<div>
-    <img src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif" alt="A descriptive image" style="width: 150px; border-radius: 50%;">
+<div style="flex: 1; text-align: right;">
+<img src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif" alt="Minha Imagem" style="width: 150px; border-radius: 50%;">
 </div>
 
 </div>
+
 
 
   
