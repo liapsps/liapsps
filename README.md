@@ -1,6 +1,6 @@
-<table>
-<tr>
-<td>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1;">
 
 # Hello! I'm Julia Chaves 🫧
 
@@ -9,14 +9,14 @@
 - And studying Advanced English, Web Development, and Data Structures 👩🏽‍💻🧩  
 - My other interests include learning foreign languages, music, and art in general 🌎🎧  
 
-</td>
-<td>
+</div>
 
-<img align="right" alt="gif" height="150" width="150" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
+<div>
+    <img src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif" alt="A descriptive image" style="width: 150px; border-radius: 50%;">
+</div>
 
-</td>
-</tr>
-</table>
+</div>
+
 
   
  <div>
