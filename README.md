@@ -32,7 +32,6 @@
     </span>
   </div>
 </div>
-<br>
 
 ### Github stats
  <div>
@@ -42,8 +41,6 @@
 </div>
 
 <br>
-
-<hr style="text-align: center;">
 
 <picture>
   <source media="(prefers-color-scheme:dark)" scrset="https://raw.githubusercontent.com/liapsps/liapsps/output/github-contribution-grid-snake-dark.svg">
