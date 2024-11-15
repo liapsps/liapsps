@@ -27,5 +27,5 @@
  <div> 
   <a href = "mailto:lialilinbox@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliachavesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <img align="right" alt="gif" height="100" width="100" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
+   <img align="right" alt="gif" height="150" width="150" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
 </div>
