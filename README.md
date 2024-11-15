@@ -40,8 +40,6 @@
    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapsps&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme:dark)" scrset="https://raw.githubusercontent.com/liapsps/liapsps/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme:light)" scrset="https://raw.githubusercontent.com/liapsps/liapsps/output/github-contribution-grid-snake.svg">
