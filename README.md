@@ -42,7 +42,6 @@
 
 <picture>
   <source media="(prefers-color-scheme:dark)" scrset="https://raw.githubusercontent.com/liapsps/liapsps/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme:light)" scrset="https://raw.githubusercontent.com/liapsps/liapsps/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liapsps/liapsps/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
