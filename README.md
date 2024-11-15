@@ -1,13 +1,23 @@
+<table>
+<tr>
+<td>
+
 # Hello! I'm Julia Chaves 🫧
 
-<div>
-- I'm a Data Science nerd ☝️🤓 <br>
-- Currently working as a Data Analyst 🥧📊 <br>
-- And studying Advanced English, Web Development and Data Structures 👩🏽‍💻🧩 <br>
-- My other interests include learning foreign languages, music and art in general 🌎🎧 <br>
-  <img align="right" alt="gif" height="150" width="150" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
-</div>
-<br><br>
+- I'm a Data Science nerd ☝️🤓  
+- Currently working as a Data Analyst 🥧📊  
+- And studying Advanced English, Web Development, and Data Structures 👩🏽‍💻🧩  
+- My other interests include learning foreign languages, music, and art in general 🌎🎧  
+
+</td>
+<td>
+
+<img align="right" alt="gif" height="150" width="150" src="https://s3.ezgif.com/tmp/ezgif-3-5dea987934.gif">
+
+</td>
+</tr>
+</table>
+
   
  <div>
    <a href="https://github.com/liapsps">
