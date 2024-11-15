@@ -23,7 +23,7 @@
 
 ##
  
-### Hit me up!
+## Hit me up!
  
  <div> 
   <a href = "mailto:lialilinbox@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
