@@ -11,7 +11,7 @@
    <img height="180em" width="440cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapsps&layout=compact&langs_count=16&theme=dracula"/>
 </div>
     
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
