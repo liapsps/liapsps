@@ -7,8 +7,14 @@
 - Currently working as a Data Analyst 🥧📊  
 - And studying Advanced English, Web Development, and Data Structures 👩🏽‍💻🧩  
 - My other interests include learning foreign languages, music, and art in general 🌎🎧  
-
 <br><br>
+
+### Let me know! 📌
+ <div> 
+  <a href = "mailto:lialilinbox@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juliachavesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
  <div>
    <a href="https://github.com/liapsps">
    <img height="160" src="https://github-readme-stats.vercel.app/api?username=liapsps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false&rank_icon=github"/>
@@ -27,12 +33,6 @@
 </div>
 
 <hr style="text-align: center;">
-
-### Let me know! 📌
- <div> 
-  <a href = "mailto:lialilinbox@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juliachavesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme:dark)" scrset="https://raw.githubusercontent.com/liapsps/liapsps/output/github-contribution-grid-snake-dark.svg">
