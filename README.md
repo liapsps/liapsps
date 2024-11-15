@@ -8,8 +8,8 @@
 - And studying Advanced English, Web Development, and Data Structures 👩🏽‍💻🧩<br>
 - My other interests include learning foreign languages, music, and art in general 🌎🎧<br>
 
- <div style="display: flex; align-items: center; gap: 20px;">
-  <div>
+ <div style="display: inline-block; width: 100%;">
+  <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
     <h3>Contact me</h3>
     <span>
       <a href="mailto:lialilinbox@gmail.com">
@@ -20,7 +20,7 @@
       </a>
     </span>
   </div>
-  <div>
+  <div style="display: inline-block; vertical-align: top;">
     <h3>My stacks</h3>
     <span>
       <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
