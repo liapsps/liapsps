@@ -2,7 +2,7 @@
 
 <img align="right" src="ezgif-3-ddb8331e7d.gif" alt="spider-lia" width="150" style="float: right;">
 <p align="left">
-
+<br>
 - I'm a Data Science nerd ☝️🤓<br> 
 - Currently working as a Data Analyst 🥧📊<br>
 - Studying Advanced English, Web Development and Data Structures 👩🏽‍💻🧩<br>
