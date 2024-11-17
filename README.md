@@ -3,10 +3,10 @@
 <img align="right" src="ezgif-3-ddb8331e7d.gif" alt="spider-lia" width="150" style="float: right;">
 <p align="left">
 <br>
-- I'm a Data Science nerd ☝️🤓<br> 
-- Currently working as a Data Analyst 🥧📊<br>
-- Studying Advanced English, Web Development and Data Structures 👩🏽‍💻🧩<br>
-- My other interests include learning foreign languages, music and art in general 🌎🎧<br><br>
+• I'm a Data Science nerd ☝️🤓<br> 
+• Currently working as a Data Analyst 🥧📊<br>
+• Studying Advanced English, Web Development and Data Structures 👩🏽‍💻🧩<br>
+• My other interests include learning foreign languages, music and art in general 🌎🎧<br><br>
 
  <div style="display: flex; align-items: center; gap: 1px;">
   <div>
