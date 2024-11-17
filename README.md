@@ -24,6 +24,7 @@
     <h3>My stacks</h3>
     <span>
       <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+      <img align="center" alt="Jupyter Notebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
       <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
       <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
       <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
@@ -36,8 +37,8 @@
 ### Github stats
  <div>
    <a href="https://github.com/liapsps">
-   <img height="150" src="https://github-readme-stats.vercel.app/api?username=liapsps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false&rank_icon=github"/>
-   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapsps&layout=compact&langs_count=10&theme=dracula"/>
+   <img height="130" src="https://github-readme-stats.vercel.app/api?username=liapsps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=false&rank_icon=github"/>
+   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapsps&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 <picture>
