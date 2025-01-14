@@ -9,16 +9,13 @@ julia = {
     tools: ["Python", "SQL", "Jupyter Notebook", "Postgresql", "VS Code", "Git", "Google Looker Studio"],
     libraries: ["Pandas", "Numpy", "Matplotlib", "Seaborn", "Scikit-learn"],
     speciality: ["Data Visualization", "EDA", "Business Intelligence (BI)"],
-    languages: ["Native Portuguese", "C2 English Level", "Intermediate Spanish"]
+    languages: ["Native Portuguese", "C2 English Level", "Intermediate Spanish", "Learning 한글 and 拼音"]
     }
     education: {
         degree: "B.Sc. in Software Engineering",
         institution: "Federal University of Ceará (UFC)",
         focus: ["Software Development", "Data Science", "Machine Learning"],
-        highlights: [
-            "Vice-President of Software Engineering Student Union (2024)",
-            "Representant of the Student Council (2023)"
-        ]
+        highlights: ["Vice-President of Software Engineering Student Union (2024)", "Representant of the Student Council (2023)"]
      }
      volunteering: {
          role: "Coordinator",
