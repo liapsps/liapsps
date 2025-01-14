@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=843EA1&width=435&lines=Hello!+Ol%C3%A1!+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!++%F0%9F%91%8B;Hello!+I'm+Julia+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Oii!+Sou+a+Julia+%F0%9F%8E%A7;%EC%95%88%EB%85%95!~+%EC%A0%80%EB%8A%94+%EC%A4%84%EB%A6%AC%EC%95%84%EC%9E%85%EB%8B%88%EB%8B%A4++%F0%9F%8C%8E)](https://git.io/typing-svg)
 
-<img align="right" src="ezgif-3-ddb8331e7d.gif" alt="spider-lia" width="250">
-
+<img align="right" src="ezgif-3-ddb8331e7d.gif" alt="spider-lia" width="150">
+<br><br>
 ### A little more about me 🫧
 
 ```python
