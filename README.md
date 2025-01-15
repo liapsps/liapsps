@@ -4,7 +4,6 @@
 
 ```python
 julia = {
-    pronouns: ["she", "her"],
     skills: {
     tools: ["Python", "SQL", "Jupyter Notebook", "Postgresql", "VS Code", "Git", "Google Looker Studio"],
     libraries: ["Pandas", "Numpy", "Matplotlib", "Seaborn", "Scikit-learn"],
