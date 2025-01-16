@@ -15,12 +15,12 @@ julia = {
         institution: "Federal University of Ceará (UFC)",
         focus: ["Software Development", "Data Science", "Machine Learning"],
         highlights: ["Vice-President of Software Engineering Student Union (2024)", "Representant of the Student Council (2023)"]
-     }
-     volunteering: {
+    }
+    volunteering: {
          role: "Coordinator",
          organization: "Polygot Club",
          description: "Led cultural exchange and language learning activities."
-     }
+    }
 }
 ```
 
