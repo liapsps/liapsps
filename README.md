@@ -5,7 +5,7 @@
 ```python
 julia = {
     skills: {
-    tools: ["Python", "SQL", "Jupyter Notebook", "Postgresql", "VS Code", "Git", "Google Looker Studio"],
+    tools: ["Python", "SQL", "Jupyter Notebook", "Postgresql", "VS Code", "Git", "Looker Studio"],
     libraries: ["Pandas", "Numpy", "Matplotlib", "Seaborn", "Scikit-learn"],
     speciality: ["Data Visualization", "EDA", "Business Intelligence (BI)"],
     languages: ["Native Portuguese", "C2 English Level", "Intermediate Spanish", "Learning 한글 and 拼音"]
