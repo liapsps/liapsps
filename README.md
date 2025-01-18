@@ -26,6 +26,10 @@ julia = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to know you more!</b> :)</em>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=liapsps&show_icons=true&theme=tokyonight" alt="Julia's GitHub stats">
+    <img src="https://streak-stats.demolab.com/?user=liapsps&theme=tokyonight" alt="GitHub Streak">
+</div>
 
 <picture>
   <source media="(prefers-color-scheme:dark)" scrset="https://raw.githubusercontent.com/liapsps/liapsps/output/github-contribution-grid-snake-dark.svg">
