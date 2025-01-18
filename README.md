@@ -34,6 +34,6 @@ julia = {
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=liapsps&show_icons=true&theme=tokyonight" alt="Julia's GitHub stats" style="width: 45%; max-width: 300px; height: auto;">
-    <img src="https://streak-stats.demolab.com/?user=liapsps&theme=tokyonight" alt="GitHub Streak" style="width: 45%; max-width: 300px; height: auto;">
+    <img src="https://streak-stats.demolab.com/?user=liapsps&theme=tokyonight" alt="GitHub Streak" style="width: 47%; max-width: 300px; height: auto;">
 </div>
 
