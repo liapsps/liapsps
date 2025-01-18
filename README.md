@@ -33,6 +33,7 @@ julia = {
 <br><br>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=liapsps&show_icons=true&theme=tokyonight" alt="Julia's GitHub stats">
-    <img src="https://streak-stats.demolab.com/?user=liapsps&theme=tokyonight" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=liapsps&show_icons=true&theme=tokyonight" alt="Julia's GitHub stats" style="height: 200px;">
+    <img src="https://streak-stats.demolab.com/?user=liapsps&theme=tokyonight" alt="GitHub Streak" style="height: 200px;">
 </div>
+
