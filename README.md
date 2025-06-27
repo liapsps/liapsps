@@ -5,7 +5,7 @@ julia = {
     experience: {
         student fellow @ junior achievement americas: [jun 2025 - present],
         scholarship holder @ IT program of brazilian ministry of education: [may 2025 - present],
-        NLP voice data operator @ smarti japan: [may 2025 - present]
+        NLP voice data operator @ smarti japan: [may 2025 - present],
         data analysis intern @ master insight ads: [aug 2024 - apr 2025]
     }
     education: {
