@@ -1,25 +1,28 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=843EA1&width=435&lines=Hello!+Ol%C3%A1!+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!++%F0%9F%91%8B;Hello!+I'm+Julia+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Oii!+Sou+a+Julia+%F0%9F%8E%A7;%EC%95%88%EB%85%95!~+%EC%A0%80%EB%8A%94+%EC%A4%84%EB%A6%AC%EC%95%84%EC%9E%85%EB%8B%88%EB%8B%A4++%F0%9F%8C%8E)](https://git.io/typing-svg)
-
 ### A little more about me 🫧
 
 ```python
 julia = {
-    skills: {
-    tools: ["Python", "SQL", "Jupyter Notebook", "Postgresql", "VS Code", "Git", "Looker Studio"],
-    libraries: ["Pandas", "Numpy", "Matplotlib", "Seaborn", "Scikit-learn"],
-    speciality: ["Data Visualization", "EDA", "Business Intelligence (BI)"],
-    languages: ["Native Portuguese", "C2 English Level", "Intermediate Spanish", "Learning 한글 and 拼音"]
+    experience: {
+        student fellow @ junior achievement americas: [jun 2025 - present],
+        scholarship holder @ IT program of brazilian ministry of education: [may 2025 - present],
+        NLP voice data operator @ smarti japan: [may 2025 - present]
+        data analysis intern @ master insight ads: [aug 2024 - apr 2025]
     }
     education: {
-        degree: "B.Sc. in Software Engineering",
-        institution: "Federal University of Ceará (UFC)",
-        focus: ["Software Development", "Data Science", "Machine Learning"],
-        highlights: ["Vice-President of Software Engineering Student Union (2024)", "Representant of the Student Council (2023)"]
+        B.Sc. in computer software engineering @ universidade federal do ceará: [feb 2023 - dec 2027],
+        CS50 computer science course @ harvard: [jan 2022 - apr 2022],
+        honored student @ maximus high school
     }
-    volunteering: {
-         role: "Coordinator",
-         organization: "Polygot Club",
-         description: "Led cultural exchange and language learning activities."
+    other activities: {
+        coordinator @ polyglot club - qxd: [apr 2024 - present],
+        vice president of student council @ universidade federal do ceará: [feb 2023 - dec 2023],
+        student representative @ universidade federal do ceará: [jun 2023 - feb 2024],
+    }
+    skills: {
+    tools: ["Python", "SQL", "Jupyter Notebook", "VS Code", "Git", "Looker Studio"],
+    libraries: ["Pandas", "Numpy", "Matplotlib", "Seaborn", "Scikit-learn"],
+    speciality: ["Data Science", "Big Data", "Machine Learning"],
+    natural languages: ["Native Portuguese", "C2 English Level", "Intermediate Spanish", "Learning 拼音"]
     }
 }
 ```
