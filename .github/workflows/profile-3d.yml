@@ -1,0 +1,28 @@
+name: GitHub-Profile-3D-Contrib # Nome do workflow exibido no GitHub Actions
+
+on:
+  schedule: # Agenda para rodar automaticamente todos os dias às 18:00 UTC (03:00 JST)
+    - cron: "0 3 * * *"
+  workflow_dispatch: # Permite execução manual do workflow
+
+permissions:
+  contents: write # Permite ao workflow escrever no repositório
+
+jobs:
+  build:
+    runs-on: ubuntu-latest # Define o sistema operacional da máquina virtual
+    name: generate-github-profile-3d-contrib # Nome do job
+    steps:
+      - uses: actions/checkout@v4 # Faz o checkout do código do repositório
+      - uses: yoshi389111/github-profile-3d-contrib@latest # Gera a visualização 3D das contribuições
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token de autenticação do GitHub
+          USERNAME: ${{ github.repository_owner }} # Usuário do repositório
+      - name: Commit & Push # Etapa para commitar e enviar as alterações
+        run: |
+          git config user.name github-actions # Configura o nome do usuário do git
+          git config user.email github-actions@github.com # Configura o e-mail do usuário do git
+          git add -A . # Adiciona todas as alterações
+          if git commit -m "generated"; then # Faz o commit se houver mudanças
+            git push # Envia as alterações para o repositório
+          fi
