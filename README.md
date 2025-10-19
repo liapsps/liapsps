@@ -15,10 +15,10 @@ class JuliaChaves:
         ]
         self.languages = {
             "Portuguese": "Native",
-            "English": "C2 Proficient",
-            "Spanish": "Professional Working",
-            "Chinese": "Elementary",
-            "Korean": "Elementary"
+            "English": "C2",
+            "Spanish": "B2",
+            "Chinese": "HSK II",
+            "Korean": "TOPIK I"
         }
 
     @property
