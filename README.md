@@ -45,6 +45,7 @@ class JuliaChaves:
 
 me = JuliaChaves()
 ```
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
