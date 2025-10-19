@@ -1,30 +1,50 @@
-### A little more about me
+### 👋 Hi, I'm Julia!
 
 ```python
-julia = {
-    experience: {
-        student fellow @ junior achievement americas: [jun 2025 - present],
-        scholarship holder @ IT program of brazilian ministry of education: [may 2025 - present],
-        NLP voice data operator @ smarti japan: [may 2025 - present],
-        data analysis intern @ master insight ads: [aug 2024 - apr 2025]
-    }
-    education: {
-        B.Sc. in computer software engineering @ universidade federal do ceará: [feb 2023 - dec 2027],
-        CS50 computer science course @ harvard: [jan 2022 - apr 2022],
-        honored student @ maximus high school
-    }
-    other activities: {
-        coordinator @ polyglot club - qxd: [apr 2024 - present],
-        vice president of student council @ universidade federal do ceará: [feb 2023 - dec 2023],
-        student representative @ universidade federal do ceará: [jun 2023 - feb 2024],
-    }
-    skills: {
-    tools: ["Python", "SQL", "Jupyter Notebook", "VS Code", "Git", "Looker Studio"],
-    libraries: ["Pandas", "Numpy", "Matplotlib", "Seaborn", "Scikit-learn"],
-    speciality: ["Data Science", "Big Data", "Machine Learning"],
-    natural languages: ["Native Portuguese", "C2 English Level", "Intermediate Spanish", "Learning 拼音"]
-    }
-}
+class JuliaChaves:
+    def __init__(self):
+        self.name = "Julia Chaves 茱雅"
+        self.pronouns = "she/her"
+        self.location = "Ceará, Brazil"
+        self.education = {
+            "undergraduate": "B.Sc. in Software Engineering @ UFC",
+            "minor": "Artificial Intelligence @ UFC"
+        }
+        self.current_roles = [
+            "AI/ML Research @ Huawei",
+            "AI & Data Engineer @ Dataside"
+        ]
+        self.languages = {
+            "Portuguese": "Nativo",
+            "English": "C2 Proficient",
+            "Spanish": "Professional Working",
+            "Chinese": "Elementary",
+            "Korean": "Elementary"
+        }
+
+    @property
+    def current_focus(self):
+        return [
+            "Wildfire detection using satellite imagery with CNNs",
+            "End-to-end development of AI systems (MLOps)",
+            "NLP models for speech recognition",
+            "Cloud infrastructure fundamentals on AWS"
+        ]
+
+    @property
+    def tool_kit(self):
+        return [
+            "Python", "SQL", "Pandas", "Scikit-learn", 
+            "TensorFlow", "PyTorch", "Git", "Docker", "AWS"
+        ]
+
+    def connect_with_me(self):
+        linkedin = "[https://linkedin.com/in/juliaentrechaves](https://linkedin.com/in/juliaentrechaves)"
+        portfolio = "[https://github.com/liapsps](https://github.com/liapsps)"
+        email = "lialilinbox@gmail.com"
+        return { "linkedin": linkedin, "portfolio": portfolio, "email": email }
+
+me = JuliaChaves()
 ```
 <picture>
   <source media="(prefers-color-scheme:dark)" scrset="https://raw.githubusercontent.com/liapsps/liapsps/output/github-contribution-grid-snake-dark.svg">
