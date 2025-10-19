@@ -5,7 +5,6 @@ class JuliaChaves:
     def __init__(self):
         self.name = "Julia Chaves 茱雅"
         self.pronouns = "she/her"
-        self.location = "Ceará, Brazil"
         self.education = {
             "undergraduate": "B.Sc. in Software Engineering @ UFC",
             "minor": "Artificial Intelligence @ UFC"
@@ -15,7 +14,7 @@ class JuliaChaves:
             "AI & Data Engineer @ Dataside"
         ]
         self.languages = {
-            "Portuguese": "Nativo",
+            "Portuguese": "Native",
             "English": "C2 Proficient",
             "Spanish": "Professional Working",
             "Chinese": "Elementary",
