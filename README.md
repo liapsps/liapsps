@@ -48,7 +48,7 @@ me = JuliaChaves()
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
     <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
     <img src="./assets/icons/python-original.svg" width="30" height="30" alt="Ícone do Python" />
     </div>
@@ -76,13 +76,13 @@ me = JuliaChaves()
     <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
     <img src="./assets/icons/git-original.svg" width="30" height="30" alt="Ícone do Git" />
     </div>
-</div>
+</div> -->
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,tensorflow,pytorch,git,docker,kubernetes,aws,gcp,githubactions" />
   </a>
-</p> -->
+</p>
 
 <picture>
   <source media="(prefers-color-scheme:dark)" scrset="https://raw.githubusercontent.com/liapsps/liapsps/output/github-contribution-grid-snake-dark.svg">
