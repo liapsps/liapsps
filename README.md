@@ -33,7 +33,7 @@ class JuliaChaves:
     @property
     def tool_kit(self):
         return [
-            "Python", "SQL", "Pandas", "Scikit-learn", 
+            "Python", "SQL", "Pandas", "Scikit-learn",
             "TensorFlow", "PyTorch", "Git", "Docker", "AWS"
         ]
 
@@ -45,14 +45,44 @@ class JuliaChaves:
 
 me = JuliaChaves()
 ```
+
 <br>
 
-<p align="center">
+<div align="center">
+    <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
+    <img src="./assets/icons/python-original.svg" width="30" height="30" alt="Ícone do Python" />
+    </div>
+    <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
+    <img src="./assets/icons/postgresql-original.svg" width="30" height="30" alt="Ícone do PostgreSQL" />
+    </div>
+    <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
+    <img src="./assets/icons/pandas-original.svg" width="30" height="30" alt="Ícone do Pandas" />
+    </div>
+    <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
+    <img src="./assets/icons/scikitlearn-original.svg" width="30" height="30" alt="Ícone do Scikitlearn" />
+    </div>
+    <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
+    <img src="./assets/icons/tensorflow-original.svg" width="30" height="30" alt="Ícone do Tensorflow" />
+    </div>
+    <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
+    <img src="./assets/icons/pytorch-original.svg" width="30" height="30" alt="Ícone do Pytorch" />
+    </div>
+    <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
+    <img src="./assets/icons/amazonwebservices-original-wordmark.svg" width="30" height="30" alt="Ícone da AWS" />
+    </div>
+    <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
+    <img src="./assets/icons/docker-plain.svg" width="30" height="30" alt="Ícone do Docker" />
+    </div>
+    <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
+    <img src="./assets/icons/git-original.svg" width="30" height="30" alt="Ícone do Git" />
+    </div>
+</div>
+
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,tensorflow,pytorch,git,docker,kubernetes,aws,gcp,githubactions" />
   </a>
-</p>
-
+</p> -->
 
 <picture>
   <source media="(prefers-color-scheme:dark)" scrset="https://raw.githubusercontent.com/liapsps/liapsps/output/github-contribution-grid-snake-dark.svg">
@@ -64,4 +94,3 @@ me = JuliaChaves()
     <img src="https://github-readme-stats.vercel.app/api?username=liapsps&show_icons=true&theme=tokyonight" alt="Julia's GitHub stats" style="width: 44%; max-width: 300px; height: auto;">
     <img src="https://streak-stats.demolab.com/?user=liapsps&theme=tokyonight" alt="GitHub Streak" style="width: 47%; max-width: 300px; height: auto;">
 </div>
-
