@@ -3,7 +3,7 @@
 ```python
 class JuliaChaves:
     def __init__(self):
-        self.name = "Julia Chaves 茱雅"
+        self.name = "Julia Chaves"
         self.pronouns = "she/her"
         self.education = {
             "undergraduate": "B.Sc. in Software Engineering @ UFC",
