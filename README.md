@@ -93,9 +93,3 @@ me = JuliaChaves()
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liapsps/liapsps/output/github-contribution-grid-snake-dark.svg">
 </picture>
 <br><br>
-
-<div align="center" style="display: flex; justify-content: center; gap: 1500px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=liapsps&show_icons=true&theme=tokyonight" alt="Julia's GitHub stats" style="width: 34%; height: auto;">
-    <img src="https://streak-stats.demolab.com/?user=liapsps&theme=tokyonight" alt="GitHub Streak" style="width: 36%; height: auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liapsps&layout=compact&theme=tokyonight" style="width: 26%; height: auto;">
-</div>
