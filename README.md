@@ -75,6 +75,6 @@ me = JuliaChaves()
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,mongodb,tensorflow,pytorch,git,docker,kubernetes,aws,gcp,githubactions" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,sklearn,opencv,postgres,git,postman,githubactions,docker,kubernetes,aws,linux,latex,notion" />
   </a>
 </p>
