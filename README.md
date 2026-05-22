@@ -60,22 +60,13 @@ me = JuliaChaves()
     <img src="./assets/icons/postgresql-original.svg" width="30" height="30" alt="Ícone do PostgreSQL" />
     </div>
     <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
-    <img src="./assets/icons/pandas-original.svg" width="30" height="30" alt="Ícone do Pandas" />
-    </div>
-    <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
     <img src="./assets/icons/scikitlearn-original.svg" width="30" height="30" alt="Ícone do Scikitlearn" />
-    </div>
-    <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
-    <img src="./assets/icons/tensorflow-original.svg" width="30" height="30" alt="Ícone do Tensorflow" />
     </div>
     <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
     <img src="./assets/icons/pytorch-original.svg" width="30" height="30" alt="Ícone do Pytorch" />
     </div>
     <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
     <img src="./assets/icons/amazonwebservices-original-wordmark.svg" width="30" height="30" alt="Ícone da AWS" />
-    </div>
-    <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
-    <img src="./assets/icons/docker-plain.svg" width="30" height="30" alt="Ícone do Docker" />
     </div>
     <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #F7F7F7; border-radius: 8px; padding: 2px; margin-right: 3px; width: 34px; height: 34px;">
     <img src="./assets/icons/git-original.svg" width="30" height="30" alt="Ícone do Git" />
