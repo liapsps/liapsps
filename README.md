@@ -28,15 +28,13 @@ class liapsps:
         return [
             "Building GenAI solutions with LLMs, RAG, and LangChain",
             "Scaling AI applications for production environments",
-            "Cloud-native microservices infrastructure on AWS",
-            "Aligning undergrad thesis (TCC) with GenAI enterprise applications"
         ]
 
     @property
     def tool_kit(self):
         return [
             "Python", "LangChain", "RAG", "LLMs", "Pandas",
-            "PyTorch", "Git", "Docker", "AWS"
+            "PyTorch", "Git", "Docker", "AWS", "Langchain"
         ]
 
     def connect_with_me(self):
@@ -53,6 +51,6 @@ me = JuliaChaves()
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,sklearn,opencv,postgres,git,gitlab,githubactions,docker,kubernetes,aws,linux,latex,notion" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,sklearn,opencv,postgres,git,gitlab,githubactions,docker,kubernetes,aws,linux,latex,langchain" />
   </a>
 </p>
