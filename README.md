@@ -43,7 +43,7 @@ class liapsps:
         email = "contact.juliachaves@gmail.com"
         return { "linkedin": linkedin, "portfolio": portfolio, "email": email }
 
-me = JuliaChaves()
+me = julia()
 ```
 
 <br>
