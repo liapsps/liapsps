@@ -51,6 +51,6 @@ me = julia()
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,sklearn,opencv,postgres,git,gitlab,githubactions,docker,kubernetes,aws,linux,latex,langchain" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,sklearn,opencv,postgres,git,gitlab,githubactions,docker,kubernetes,aws,linux,latex,langchain,datadog" />
   </a>
 </p>
